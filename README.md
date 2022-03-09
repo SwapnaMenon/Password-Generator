@@ -26,6 +26,7 @@ SO THAT I can create a strong password that provides greater security
 
 ## Mock-Up
 The following image shows the web application's appearance and functionality:
-Demo (./Assets/03-javascript-homework-demo.png)
+![Demo](./Assets/03-javascript-homework-demo.png)
+
 
 
