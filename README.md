@@ -28,5 +28,29 @@ SO THAT I can create a strong password that provides greater security
 The following image shows the web application's appearance and functionality:
 ![Demo](./Assets/03-javascript-homework-demo.png)
 
+## How the Password Generator Works
+# How to access the Passowrd-Generator portal 
+Links: 
+Git Hub Pages:  https://swapnamenon.github.io/Password-Generator/
+Git Hub Repo: https://github.com/SwapnaMenon/Password-Generator
+
+# Navigate through the page: 
+# Password-Generator landing page 
+![Demo]()
+
+# User requiremnts promts
+- Password Length 
+![Demo]()
+- Lowercase letters 
+![Demo]()
+-Uppercase Letters 
+![Demo]()
+- Special Charecters 
+![Demo]()
+
+# If user selects "No" for all the requiremnts, the randomly generated password will only include numbers
+![Demo](O)
+
+
 
 
