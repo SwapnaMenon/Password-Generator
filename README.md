@@ -1,3 +1,4 @@
+## Instructions as posted on Canvas / Bootcamp Spot
 # Password-Generator
 Weekly Challenge 3- Password Generator
 Description- as posted on canvas 
@@ -27,6 +28,31 @@ SO THAT I can create a strong password that provides greater security
 # Mock-Up
 The following image shows the web application's appearance and functionality:
 ![Demo](./Assets/03-javascript-homework-demo.png)
+
+## How the Password Generator Works
+# How to access the Passowrd-Generator portal 
+Links: 
+Git Hub Pages: 
+Git Hub Repo: 
+
+# Navigate through the page: 
+# Password-Generator landing page 
+![Demo]()
+
+# User requiremnts promts
+- Password Length 
+![Demo]()
+- Lowercase letters 
+![Demo]()
+-Uppercase Letters 
+![Demo]()
+- Special Charecters 
+![Demo]()
+
+# If user selects "No" for all the requiremnts, the randomly generated password will only include numbers
+![Demo](O)
+
+
 
 
 
