@@ -32,8 +32,8 @@ The following image shows the web application's appearance and functionality:
 ## How the Password Generator Works
 # How to access the Passowrd-Generator portal 
 Links: 
-Git Hub Pages: 
-Git Hub Repo: 
+Git Hub Pages:  https://swapnamenon.github.io/Password-Generator/
+Git Hub Repo: https://github.com/SwapnaMenon/Password-Generator
 
 # Navigate through the page: 
 # Password-Generator landing page 
