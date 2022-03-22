@@ -1,5 +1,5 @@
 // Assignment Code
-var generateBtn = document.querySelector("#generate"); 
+var generateBtn = document.querySelector("#generate");
 // generate password for required lenght and criteria //
 function generatePassword(){
   var passwordlength=prompt("how many charecters do you want your desire password to be")
@@ -39,7 +39,6 @@ for (var i = 0; i <= passwordlength; i++) {
 console.log (password)
 return password
 }
-
 
 // Write password to the #password input
 function writePassword() {
