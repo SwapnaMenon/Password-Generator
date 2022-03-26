@@ -44,7 +44,7 @@ Git Hub Repo: https://github.com/SwapnaMenon/Password-Generator
 ![Demo](./Assets/Password-Length.png)
 - Lowercase letters 
 ![Demo](./Assets/Lower-case.png)
--Uppercase Letters 
+- Uppercase Letters 
 ![Demo](./Assets/upper-case.png)
 - Special Charecters 
 ![Demo](./Assets/Special-Charecters.png)
