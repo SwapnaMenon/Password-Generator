@@ -39,7 +39,7 @@ Git Hub Repo: https://github.com/SwapnaMenon/Password-Generator
 # Password-Generator landing page 
 ![Demo](./Assets/Landing-Page.png)
 
-# User requiremnts promts
+# User requirements promts
 - Password Length 
 ![Demo](./Assets/Password-Length.png)
 - Lowercase letters 
