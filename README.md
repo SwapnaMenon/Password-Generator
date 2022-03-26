@@ -41,16 +41,16 @@ Git Hub Repo: https://github.com/SwapnaMenon/Password-Generator
 
 # User requiremnts promts
 - Password Length 
-![Demo]()
+![Demo](./Assets/Password-Length.png)
 - Lowercase letters 
-![Demo]()
+![Demo](./Assets/Lower-case.png)
 -Uppercase Letters 
-![Demo]()
+![Demo](./Assets/upper-case.png)
 - Special Charecters 
-![Demo]()
+![Demo](./Assets/Special-Charecters.png)
 
 # If user selects "No" for all the requiremnts, the randomly generated password will only include numbers
-![Demo](O)
+![Demo](./Assets/only-numbers.png)
 
 
 
