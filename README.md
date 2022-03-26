@@ -37,7 +37,7 @@ Git Hub Repo: https://github.com/SwapnaMenon/Password-Generator
 
 # Navigate through the page: 
 # Password-Generator landing page 
-![Demo]()
+![Demo](./Assets/Landing-Page.png)
 
 # User requiremnts promts
 - Password Length 
